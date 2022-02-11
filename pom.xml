@@ -65,8 +65,8 @@
 				      </execution>
 				   </executions>
 				</plugin>
+
 				
-				## Add PITest Mutation Plugin in pom.xml
 				<!--                   PITest Mutation Plugin                   -->
 					<plugin>
 					   <groupId>org.pitest</groupId>
